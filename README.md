@@ -1,3 +1,3 @@
 # CSE220
-Data Structures Code
+Data Structures Code.
 Owner - Sadman Rahman Alfi
